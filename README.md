@@ -1,14 +1,14 @@
 <div align="center">
   <h1>Hi there! 👋 I'm Teddinata Kusuma</h1>
-  <h3>Project Manager | Full Stack Developer | Vue.js | Laravel | Python | Odoo Developer 🚀</h3>
+  <h3>Project Manager | Product Manager | Full Stack Developer | Vue.js | Laravel | Python | Odoo Developer 🚀</h3>
 </div>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=teddinata&color=8B5CF6&style=flat-square&label=PROFILE+VIEWS)
 
 ### 👨‍💻 About Me
-I'm an experienced Software Engineer with over 2 years of expertise in Website and Web App Development, currently based in Central Java, Indonesia. My journey combines analytical thinking and problem-solving skills to create robust web applications.
+I'm an experienced Software Engineer with over 4 years of expertise in Website and Web App Development, currently based in Central Java, Indonesia. My journey combines analytical thinking and problem-solving skills to create robust web applications.
 
-- 🔭 I'm currently working as a **Project Manager & Full Stack Developer**
+- 🔭 I'm currently working as a **Product Manager & Software Engineer**
 - 🎓 Bachelor's Degree in Information Systems from **Universitas Amikom Yogyakarta**
 - 💼 Leading projects from conception to delivery
 - 🌱 Passionate about effective project management and team development
@@ -43,7 +43,7 @@ I'm an experienced Software Engineer with over 2 years of expertise in Website a
 
 ### 🤝 Connect with Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/teddinata-kusuma/" target="_blank">
+  <a href="https://www.linkedin.com/in/teddinata-kusuma/" _target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/>
   </a>
   <a href="mailto:teddinataa@gmail.com">
