@@ -43,7 +43,7 @@ I'm an experienced Software Engineer with over 2 years of expertise in Website a
 
 ### 🤝 Connect with Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/teddinata-kusuma/">
+  <a href="https://www.linkedin.com/in/teddinata-kusuma/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/>
   </a>
   <a href="mailto:teddinataa@gmail.com">
