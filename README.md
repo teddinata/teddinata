@@ -31,7 +31,7 @@ I'm an experienced Software Engineer with over 4 years of expertise in Website a
 
 ### 🔥 Streak Stats
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=teddinata&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=teddinata&theme=vue-dark&hide_border=true&exclude_days=Sun" alt="GitHub streak"/>
 </p>
 
 ### 💼 Professional Experience
